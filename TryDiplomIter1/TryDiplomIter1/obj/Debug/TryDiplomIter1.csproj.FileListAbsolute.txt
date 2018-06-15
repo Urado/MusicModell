@@ -1,0 +1,42 @@
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1.csprojResolveAssemblyReference.cache
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Debug\MainWindow.g.cs
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Debug\App.g.cs
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1_MarkupCompile.cache
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1_MarkupCompile.lref
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\bin\Debug\TryDiplomIter1.exe.config
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\bin\Debug\TryDiplomIter1.exe
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\bin\Debug\TryDiplomIter1.pdb
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\bin\Debug\InteractiveDataDisplay.WPF.dll
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\bin\Debug\System.Reactive.Linq.dll
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\bin\Debug\System.Reactive.Core.dll
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\bin\Debug\System.Reactive.Interfaces.dll
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\bin\Debug\InteractiveDataDisplay.WPF.pdb
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Debug\MainWindow.baml
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1.g.resources
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1.Properties.Resources.resources
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1.csproj.GenerateResource.Cache
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1.exe
+c:\users\samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1.pdb
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\bin\Debug\TryDiplomIter1.exe.config
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\bin\Debug\TryDiplomIter1.exe
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\bin\Debug\TryDiplomIter1.pdb
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\bin\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\bin\Debug\System.Reactive.Core.dll
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\bin\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1.csprojResolveAssemblyReference.cache
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\obj\Debug\MainWindow.g.cs
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\obj\Debug\App.g.cs
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1_MarkupCompile.cache
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1_MarkupCompile.lref
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\obj\Debug\MainWindow.baml
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1.g.resources
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1.Properties.Resources.resources
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1.csproj.GenerateResource.Cache
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1.exe
+C:\Users\Samurai\Google Диск\TryDiplomIter1\TryDiplomIter1\obj\Debug\TryDiplomIter1.pdb

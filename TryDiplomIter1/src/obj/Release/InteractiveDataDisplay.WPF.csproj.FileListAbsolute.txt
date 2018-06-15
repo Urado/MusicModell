@@ -1,0 +1,4 @@
+C:\Users\Samurai\documents\visual studio 2017\Projects\TryDiplomIter1\src\obj\Release\InteractiveDataDisplay.WPF.csprojResolveAssemblyReference.cache
+C:\Users\Samurai\documents\visual studio 2017\Projects\TryDiplomIter1\src\obj\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Samurai\documents\visual studio 2017\Projects\TryDiplomIter1\src\obj\Release\InteractiveDataDisplay.WPF_MarkupCompile.cache
+C:\Users\Samurai\documents\visual studio 2017\Projects\TryDiplomIter1\src\obj\Release\InteractiveDataDisplay.WPF_MarkupCompile.lref

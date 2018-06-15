@@ -1,0 +1,48 @@
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\Microsoft.Maps.MapControl.WPF.dll
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\System.Reactive.Core.dll
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\System.Reactive.Interfaces.dll
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\System.Reactive.Linq.dll
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\System.Reactive.PlatformServices.dll
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\System.Reactive.Windows.Threading.dll
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\Microsoft.Maps.MapControl.WPF.xml
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\System.Reactive.Core.xml
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\System.Reactive.Interfaces.xml
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\System.Reactive.Linq.xml
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\System.Reactive.PlatformServices.xml
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\bin\Debug\System.Reactive.Windows.Threading.xml
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\obj\Debug\InteractiveDataDisplay.WPF.csprojResolveAssemblyReference.cache
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\obj\Debug\InteractiveDataDisplay.WPF_MarkupCompile.cache
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\obj\Debug\InteractiveDataDisplay.WPF_MarkupCompile.lref
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\obj\Debug\Legend\DefaultTemplates.baml
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\obj\Debug\Plots\Markers\MarkerTemplates.baml
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\obj\Debug\Themes\Generic.baml
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\obj\Debug\InteractiveDataDisplay.WPF.g.resources
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\obj\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\Samurai\Desktop\InteractiveDataDisplay.WPF-master\src\obj\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\Samurai\Documents\Visual Studio 2017\Projects\TryDiplomIter1\src\bin\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\Samurai\Documents\Visual Studio 2017\Projects\TryDiplomIter1\src\bin\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\Samurai\Documents\Visual Studio 2017\Projects\TryDiplomIter1\src\obj\Debug\InteractiveDataDisplay.WPF.csprojResolveAssemblyReference.cache
+C:\Users\Samurai\Documents\Visual Studio 2017\Projects\TryDiplomIter1\src\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Samurai\Documents\Visual Studio 2017\Projects\TryDiplomIter1\src\obj\Debug\InteractiveDataDisplay.WPF_MarkupCompile.cache
+C:\Users\Samurai\Documents\Visual Studio 2017\Projects\TryDiplomIter1\src\obj\Debug\InteractiveDataDisplay.WPF_MarkupCompile.lref
+C:\Users\Samurai\Documents\Visual Studio 2017\Projects\TryDiplomIter1\src\obj\Debug\Legend\DefaultTemplates.baml
+C:\Users\Samurai\Documents\Visual Studio 2017\Projects\TryDiplomIter1\src\obj\Debug\Plots\Markers\MarkerTemplates.baml
+C:\Users\Samurai\Documents\Visual Studio 2017\Projects\TryDiplomIter1\src\obj\Debug\Themes\Generic.baml
+C:\Users\Samurai\Documents\Visual Studio 2017\Projects\TryDiplomIter1\src\obj\Debug\InteractiveDataDisplay.WPF.g.resources
+C:\Users\Samurai\Documents\Visual Studio 2017\Projects\TryDiplomIter1\src\obj\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\Samurai\Documents\Visual Studio 2017\Projects\TryDiplomIter1\src\obj\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\Samurai\Google Диск\TryDiplomIter1\src\bin\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\Samurai\Google Диск\TryDiplomIter1\src\bin\Debug\InteractiveDataDisplay.WPF.pdb
+C:\Users\Samurai\Google Диск\TryDiplomIter1\src\obj\Debug\InteractiveDataDisplay.WPF.csprojResolveAssemblyReference.cache
+C:\Users\Samurai\Google Диск\TryDiplomIter1\src\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Samurai\Google Диск\TryDiplomIter1\src\obj\Debug\InteractiveDataDisplay.WPF_MarkupCompile.cache
+C:\Users\Samurai\Google Диск\TryDiplomIter1\src\obj\Debug\InteractiveDataDisplay.WPF_MarkupCompile.lref
+C:\Users\Samurai\Google Диск\TryDiplomIter1\src\obj\Debug\Legend\DefaultTemplates.baml
+C:\Users\Samurai\Google Диск\TryDiplomIter1\src\obj\Debug\Plots\Markers\MarkerTemplates.baml
+C:\Users\Samurai\Google Диск\TryDiplomIter1\src\obj\Debug\Themes\Generic.baml
+C:\Users\Samurai\Google Диск\TryDiplomIter1\src\obj\Debug\InteractiveDataDisplay.WPF.g.resources
+C:\Users\Samurai\Google Диск\TryDiplomIter1\src\obj\Debug\InteractiveDataDisplay.WPF.dll
+C:\Users\Samurai\Google Диск\TryDiplomIter1\src\obj\Debug\InteractiveDataDisplay.WPF.pdb

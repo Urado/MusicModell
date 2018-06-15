@@ -1,0 +1,2 @@
+C:\Users\Samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Release\App.g.cs
+C:\Users\Samurai\documents\visual studio 2017\Projects\TryDiplomIter1\TryDiplomIter1\obj\Release\TryDiplomIter1_MarkupCompile.cache
